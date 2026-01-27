@@ -6,7 +6,7 @@ This is a project i did to analyse the survival rate for people on board the fam
 - It was my first end-end project using Microsoft Excel.
 
 ## The final dashboard.
-![](https://github.com/nobeardguy/Eric-s_portfolio/blob/main/Screenshot%202026-01-27%20150312.png)
+![](Screenshot 2026-01-27 150312.png)
 
 
 
