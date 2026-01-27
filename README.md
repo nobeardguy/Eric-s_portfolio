@@ -13,6 +13,7 @@ I was trying to ease the work done by teachers who have to generate examination 
 the number of learners might be too large to be done manually. 
 - Data used was from students in a CBE class in Garissa County.
 - I used Microsoft Excel and Microsoft Word to complete the project.
+![Sample Data](Screenshot 2026-01-27 153346.png)
 
 
 
