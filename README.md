@@ -6,7 +6,7 @@ This is a project i did to analyse the survival rate for people on board the fam
 - It was my first end-end project using Microsoft Excel.
 
 ## The final dashboard.
-![alt text]("C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2026-01-27 150312.png")
+![]("C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2026-01-27 150312.png")
 
 
 
