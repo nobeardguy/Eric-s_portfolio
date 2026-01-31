@@ -14,7 +14,10 @@ the number of learners might be too large to be done manually.
 - Data used was from students in a CBE class in Garissa County.
 - I used Microsoft Excel and Microsoft Word to complete the project.
 - ![Sample Data](Screenshot 2026-01-27 153346.png)
-
+# [Project 3:A Car Sales Analysis](https://github.com/nobeardguy/CarSalesAnalysis)
+This is a sales analysis for a car selling company from the year 1984 - 2022.
+- Data used was from Kaggle.com
+- I combined SQL and PowerBi to clean and visualize the data.
 
 
 
