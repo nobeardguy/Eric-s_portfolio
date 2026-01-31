@@ -1,3 +1,4 @@
+![Eric Gitonga](images/Me2.png)
 # Data Analysis Projects 
 ## [Project 1:The Titanic Survival Rate Analysis](https://github.com/nobeardguy/Titanic-survival-rate-analysis)
 This is a project i did to analyse the survival rate for people on board the famous ship; The Titanic.
