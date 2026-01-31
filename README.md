@@ -15,6 +15,7 @@ the number of learners might be too large to be done manually.
 - ![Sample Data](images/Screenshot 2026-01-27 153346.png)
   
 # [Project 3:A Car Sales Analysis](https://github.com/nobeardguy/CarSalesAnalysis)
+![Dashboard Demo](./Dashboard/DashBoard2_GIF.gif)
 This is a sales analysis for a car selling company from the year 1984 - 2022.
 - Data used was from Kaggle.com
 - I combined SQL and PowerBi to clean and visualize the data.
