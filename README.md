@@ -7,7 +7,8 @@ This is a project i did to analyse the survival rate for people on board the fam
   
 ![The final dashboard](images/Screenshot 2026-01-27 150312.png)
 
-# [Project 2:A semi-Automated Students' Report Generator](https://github.com/nobeardguy/StudentAutomaticReportGeneration)
+# [Project 2:A Chocolate Shop Sales Analysis](https://github.com/nobeardguy/chocolateSalesShopAnalysis)
+
 I was trying to ease the work done by teachers who have to generate examination results for learners. Sometimes, 
 the number of learners might be too large to be done manually. 
 - Data used was from students in a CBE class in Garissa County.
