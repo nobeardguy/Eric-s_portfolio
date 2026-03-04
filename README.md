@@ -20,7 +20,7 @@ This is a sales analysis for a car selling company from the year 1984 - 2022.
 
 # [Project 4:A Student Report Generator](https://github.com/nobeardguy/CBC-Students-Report-Generator) 
 - I was trying to ease the work done by teachers who have to generate examination results for learners. Sometimes, 
-the number of learners might be too large to be done manually. 
+the number of learners might be too large to be done manually and the school finances too limited to access paid services like Zeraki software.
 - Data used was from students in a CBE class in Garissa County.
 - I used Python and Microsoft Word to complete the project.
 
